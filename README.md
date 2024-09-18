@@ -296,3 +296,5 @@ TODO
   - since only the owning task/thread can modify the VM/vCPUs a lot of the synchronization might be unnecessary (**performance**)
 - performance, performance and performance
 - remove vestigial code, cleanup
+$ brew update
+$ brew install --HEAD xhyve
